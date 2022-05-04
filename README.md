@@ -1,6 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-oliver&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Vitor-oliver">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Vitor-oliver&show_icons=true&theme=tokyonight" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-oliver&layout=compact&theme=tokyonight" />
+</div>
+
 <!--
 **Vitor-oliver/Vitor-oliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
