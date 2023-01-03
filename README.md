@@ -6,6 +6,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-oliver&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vitor-Jv" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img align="center" alt="Vitor-Ms" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img align="center" alt="Vitor-Jv" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+  <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
+</div>
+  
 
 <!--
 **Vitor-oliver/Vitor-oliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
