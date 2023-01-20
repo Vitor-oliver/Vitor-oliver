@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/Vitor-oliver?tab=repositories">
     
-  <imgheight="40%"width="48%"src="https://githubreadmestatusy94h.vercel.app/apiusername=Vitoroliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="40%" width="48%" src="https://github-readme-status-y94h.vercel.app/api?username=Vitor-oliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="40%" width="48%" src="https://github-readme-status-y94h.vercel.app/api/top-langs/?username=Vitor-oliver&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
   
@@ -25,9 +25,7 @@
 
 <!--
 **Vitor-oliver/Vitor-oliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
