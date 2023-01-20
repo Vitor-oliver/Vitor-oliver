@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/Vitor-oliver?tab=repositories">
     
-  <img height="40%" width="48%" src="https://github-readme-status-y94h.vercel.app/api/pin/?username=Vitor-oliver&repo=Todo-App&theme=tokyonight"/>
+  
     <!--
   <img height="40%" width="48%" src="https://github-readme-status-y94h.vercel.app/api/top-langs/?username=Vitor-oliver&layout=compact&langs_count=5&theme=tokyonight"/>
 -->
